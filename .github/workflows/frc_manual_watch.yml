@@ -21,7 +21,7 @@ jobs:
       - name: Run checker
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-        run: python check_frc_updates.py
+        run: python check_team_updates.py
 
       - name: Persist state
         run: |
