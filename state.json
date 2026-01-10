@@ -1,6 +1,12 @@
 {
   "seen": [
     "https://firstfrc.blob.core.windows.net/frc2026/Manual/2026GameManual.pdf",
-    "https://firstfrc.blob.core.windows.net/frc2026/Manual/TeamUpdates/2026TeamUpdate00.pdf"
+    "https://firstfrc.blob.core.windows.net/frc2026/Manual/TeamUpdates/2026TeamUpdate00.pdf",
+    "https://firstfrc.blob.core.windows.net/frc2026/Manual/Translations/2026GameManual-CS.pdf",
+    "https://firstfrc.blob.core.windows.net/frc2026/Manual/Translations/2026GameManual-FR.pdf",
+    "https://firstfrc.blob.core.windows.net/frc2026/Manual/Translations/2026GameManual-HE.pdf",
+    "https://firstfrc.blob.core.windows.net/frc2026/Manual/Translations/2026GameManual-PO.pdf",
+    "https://firstfrc.blob.core.windows.net/frc2026/Manual/Translations/2026GameManual-SP.pdf",
+    "https://firstfrc.blob.core.windows.net/frc2026/Manual/Translations/2026GameManual-TU.pdf"
   ]
 }
